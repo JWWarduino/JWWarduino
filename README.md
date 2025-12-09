@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  email:  jeff.w.waldrop@gmail.com  
 - 😄 Pronouns: ... Him / He / Cromagnon / Mr.
-- ⚡ Fun fact: ... I am a Photograper / Amateur Radio Enthusiast / Master Scuba Diver / Alcoholic / 59 Yr Old
+- ⚡ Fun fact: ... I am a Photograper / Amateur Radio Enthusiast / Master Scuba Diver /
 
 <!---
 JWWarduino/JWWarduino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
